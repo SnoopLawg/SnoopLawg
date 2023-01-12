@@ -11,4 +11,4 @@ I live in Salt Lake City. I like basketball, being outside, and coding.
 ### I am Currently Learning
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopLawg&show_icons=true&theme=dark)
+<! -- ![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SnoopLawg&show_icons=true&theme=dark)-->
