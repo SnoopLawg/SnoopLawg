@@ -22,11 +22,6 @@ I live in Salt Lake City. I like basketball, being outside, and coding.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SnoopLawg&show_icons=true&theme=tokyonight&cache_seconds=86400" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnoopLawg&layout=compact&theme=tokyonight&cache_seconds=86400" height="170" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SnoopLawg&theme=tokyonight" alt="GitHub Streak" />
 </p>
